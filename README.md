@@ -2,7 +2,7 @@
   <h2>Create Google Shared Drive</h2><br />
 
 
-[![Create-Google-Shared-Drive](https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/Create-Google-Shared-Drive@master/screen-shot.png)](https://github.com/ParveenBhadooOfficial/Create-Google-Shared-Drive)
+[![Create-Google-Shared-Drive](https://gitlab.com/ParveenBhadooOfficial/create-google-shared-drive/-/raw/main/screen-shot.png)](https://gitlab.com/ParveenBhadooOfficial/Create-Google-Shared-Drive)
 
 
 </div>
@@ -18,7 +18,7 @@ Note: `You must have permissions to create shared drive in your account. This do
 * Authenticate
 * Generate Code
 * Copy values from `client_id: '', client_secret: '', refresh_token: ''`.
-* Paste them in Line 4,5 and 6 at [workers.js](https://github.com/ParveenBhadooOfficial/Create-Google-Shared-Drive/blob/master/workers.js).
+* Paste them in Line 4,5 and 6 at [workers.js](https://gitlab.com/ParveenBhadooOfficial/create-google-shared-drive/-/raw/main/workers.js).
 * Copy the Code and paste it into https://workers.cloudflare.com Site.
 
 ### Manual and Difficult
@@ -44,7 +44,7 @@ Note: `You must have permissions to create shared drive in your account. This do
 * It will turn to Step 2 Exchange authorization code for tokens at the end of authentication.
 * Click on Exchange authorization code for tokens, if it goes to step 3, click on Step 2 yourself.
 * Select the option Auto-refresh the token before it expires.
-* Copy the refresh token and paste in Line 6 of [workers.js](https://github.com/ParveenBhadooOfficial/Create-Google-Shared-Drive/blob/master/workers.js) along with your own Client ID and Secret at Line 4 and Line 5.
+* Copy the refresh token and paste in Line 6 of [workers.js](https://gitlab.com/ParveenBhadooOfficial/create-google-shared-drive/-/raw/main/workers.js) along with your own Client ID and Secret at Line 4 and Line 5.
 * Copy the Code and paste it into https://workers.cloudflare.com Site.
 
 ## For new users (What to do at Cloudflare exactly)
@@ -59,7 +59,7 @@ Note: `You must have permissions to create shared drive in your account. This do
 
 <div align="center">
 
-[![DNS and Workers](https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/Create-Google-Shared-Drive@master/dns-workers.png)](https://github.com/ParveenBhadooOfficial/Create-Google-Shared-Drive)
+[![DNS and Workers](https://gitlab.com/ParveenBhadooOfficial/create-google-shared-drive/-/raw/main/dns-workers.png)](https://gitlab.com/ParveenBhadooOfficial/Create-Google-Shared-Drive)
 
 </div>
 
@@ -69,7 +69,7 @@ Note: `You must have permissions to create shared drive in your account. This do
 
 <div align="center">
 
-[![Route](https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/Create-Google-Shared-Drive@master/route.png)](https://github.com/ParveenBhadooOfficial/Create-Google-Shared-Drive)
+[![Route](https://gitlab.com/ParveenBhadooOfficial/create-google-shared-drive/-/raw/main/route.png)](https://gitlab.com/ParveenBhadooOfficial/Create-Google-Shared-Drive)
 
 </div>
 
